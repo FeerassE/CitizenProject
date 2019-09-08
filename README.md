@@ -1,1 +1,6 @@
 First App
+
+
+
+- encrypted dns
+- 
